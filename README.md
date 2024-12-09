@@ -19,4 +19,3 @@ The dataset is part of the Kaggle competition: [Histopathologic Cancer Detection
 ## Results
 - **Public Score**: 0.8639
 - **Private Score**: 0.8230
-- **Leaderboard Position**: [Add your rank here after uploading]
